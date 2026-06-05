@@ -1,0 +1,51 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"Yevgeny"
+		],
+		"description": "Cheaters",
+		"title": "CheaterList",
+		"update_url": "https://raw.githubusercontent.com/BossZe/bossze-cheaterlist/main/playerlist.cheater.json"
+	},
+	"players": [
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "nnullsuarez",
+				"time": 1780456347
+			},
+			"proof": [
+				"possive aimbot with throwaway account"
+			],
+			"steamid": "[U:1:735444141]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Boom TH",
+				"time": 1780591860
+			},
+			"proof": [
+				"aimbot"
+			],
+			"steamid": "[U:1:750899816]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1780646839
+			},
+			"proof": [
+				"autostrafes"
+			],
+			"steamid": "[U:1:1519995022]"
+		}
+	]
+}
