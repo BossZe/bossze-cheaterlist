@@ -4,24 +4,11 @@
 		"authors": [
 			"BossZe"
 		],
-		"description": "BossZe's cheaters list",
-		"title": "CheaterList",
+		"description": "BossZe cheaters list",
+		"title": "cheater",
 		"update_url": "https://raw.githubusercontent.com/BossZe/bossze-cheaterlist/main/playerlist.cheater.json"
 	},
 	"players": [
-		{
-			"attributes": [
-				"suspicious"
-			],
-			"last_seen": {
-				"player_name": "nnullsuarez",
-				"time": 1780456347
-			},
-			"proof": [
-				"possive aimbot with throwaway account"
-			],
-			"steamid": "[U:1:735444141]"
-		},
 		{
 			"attributes": [
 				"cheater"
@@ -40,24 +27,62 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1780646839
-			},
-			"proof": [
-				"autostrafes"
-			],
-			"steamid": "[U:1:1519995022]"
-		},		
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"time": 1780648546
 			},
 			"proof": [
 				"closest cheater"
 			],
 			"steamid": "[U:1:1150309904]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1780646839
+			},
+			"proof": [
+				"autostrafes"
+			],
+			"steamid": "[U:1:1519995022]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561198717038979",
+				"time": 1781174634
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:756773251]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rtgx86148",
+				"time": 1781116288
+			},
+			"proof": [
+				"prefiring"
+			],
+			"steamid": "[U:1:796299733]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1780809964
+			},
+			"proof": [
+				"aimbot"
+			],
+			"steamid": "[U:1:1110355572]"
 		}
 	]
 }
