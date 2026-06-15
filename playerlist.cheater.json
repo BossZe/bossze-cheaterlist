@@ -27,30 +27,6 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1780648546
-			},
-			"proof": [
-				"closest cheater"
-			],
-			"steamid": "[U:1:1150309904]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"time": 1780646839
-			},
-			"proof": [
-				"autostrafes"
-			],
-			"steamid": "[U:1:1519995022]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"player_name": "76561198717038979",
 				"time": 1781174634
 			},
@@ -83,6 +59,30 @@
 				"aimbot"
 			],
 			"steamid": "[U:1:1110355572]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1780648546
+			},
+			"proof": [
+				"closest cheater"
+			],
+			"steamid": "[U:1:1150309904]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1780646839
+			},
+			"proof": [
+				"autostrafes"
+			],
+			"steamid": "[U:1:1519995022]"
 		}
 	]
 }
