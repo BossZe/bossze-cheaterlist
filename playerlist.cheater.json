@@ -83,6 +83,71 @@
 				"autostrafes"
 			],
 			"steamid": "[U:1:1519995022]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561198889638020",
+				"time": 1781496332
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:929372292]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "n3zrmwkc",
+				"time": 1781496796
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1335888157]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "RangeFR",
+				"time": 1781498359
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1682878637]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "MacTavish",
+				"time": 1781497002
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1897692768]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "autopsy",
+				"time": 1781498402
+			},
+			"proof": [
+				"bot"
+			],
+			"steamid": "[U:1:1913934715]"
 		}
 	]
 }
