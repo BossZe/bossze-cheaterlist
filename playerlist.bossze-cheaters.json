@@ -97,5 +97,18 @@
 			],
 			"steamid": "[U:1:1180007473]"
 		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ":v",
+				"time": 1783224786
+			},
+			"proof": [
+				"esp"
+			],
+			"steamid": "[U:1:785152796]"
+		}
 	]
 }
