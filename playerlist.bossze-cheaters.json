@@ -109,6 +109,19 @@
 				"esp"
 			],
 			"steamid": "[U:1:785152796]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "VAC",
+				"time": 1783704102
+			},
+			"proof": [
+				"steamhistory marked"
+			],
+			"steamid": "[U:1:1263485163]"
 		}
 	]
 }
