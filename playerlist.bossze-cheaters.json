@@ -134,6 +134,19 @@
 				"legit most server banned ever lmao..."
 			],
 			"steamid": "[U:1:1566377160]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xXxAttentionxXx",
+				"time": 1783934800
+			},
+			"proof": [
+				"ping exploits (backtrack)"
+			],
+			"steamid": "[U:1:1676664121]"
 		}
 	]
 }
