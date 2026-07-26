@@ -147,6 +147,19 @@
 				"ping exploits (backtrack)"
 			],
 			"steamid": "[U:1:1676664121]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Omiro!",
+				"time": 1783935423
+			},
+			"proof": [
+				"aimbot with weird flicks"
+			],
+			"steamid": "[U:1:753779014]"
 		}
 	]
 }
