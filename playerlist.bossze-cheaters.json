@@ -147,6 +147,19 @@
 				"aimbot with weird flicks"
 			],
 			"steamid": "[U:1:753779014]"
-		}
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "e3c",
+				"time": 1783935475
+			},
+			"proof": [
+				"fakelag"
+			],
+			"steamid": "[U:1:1246379285]"
+		},
 	]
 }
