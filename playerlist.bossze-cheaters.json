@@ -52,6 +52,7 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Devil",
 				"time": 1780648546
 			},
 			"proof": [
@@ -160,6 +161,19 @@
 				"fakelag"
 			],
 			"steamid": "[U:1:1246379285]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "回忆续写篇章",
+				"time": 1783936452
+			},
+			"proof": [
+				"autostrafe"
+			],
+			"steamid": "[U:1:1751671791]"
 		},
 	]
 }
