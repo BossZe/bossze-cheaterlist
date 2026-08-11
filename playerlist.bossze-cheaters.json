@@ -175,5 +175,18 @@
 			],
 			"steamid": "[U:1:1751671791]"
 		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "CoffeeFirst",
+				"time": 1783936750
+			},
+			"proof": [
+				"aimbot"
+			],
+			"steamid": "[U:1:722779688]"
+		},
 	]
 }
