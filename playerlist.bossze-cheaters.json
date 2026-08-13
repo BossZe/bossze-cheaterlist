@@ -188,5 +188,18 @@
 			],
 			"steamid": "[U:1:722779688]"
 		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Green FoX",
+				"time": 1783936750
+			},
+			"proof": [
+				"huntsman psilent"
+			],
+			"steamid": "[U:1:1055728492]"
+		},
 	]
 }
