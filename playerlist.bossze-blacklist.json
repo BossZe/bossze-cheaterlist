@@ -11,7 +11,7 @@
 	"players": [
 		{
 			"attributes": [
-				"cheater"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "2spooky4you",
@@ -24,7 +24,7 @@
 		},
 		{
 			"attributes": [
-				"cheater"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "長谷川篤",
