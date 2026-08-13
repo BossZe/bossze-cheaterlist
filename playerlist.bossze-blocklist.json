@@ -1,0 +1,39 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"BossZe"
+		],
+		"description": "for a plyer who taking shit to me while i was too many expensive items.",
+		"title": "BossZe's blacklist",
+		"update_url": "https://raw.githubusercontent.com/BossZe/bossze-cheaterlist/main/playerlist.bossze-blacklist.json"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "2spooky4you",
+				"time": 1780591860
+			},
+			"proof": [
+				"begging for items"
+			],
+			"steamid": "[U:1:1208252481]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "長谷川篤",
+				"time": 1780591860
+			},
+			"proof": [
+				"begging for items"
+			],
+			"steamid": "[U:1:1213528023]"
+		},
+	]
+}
