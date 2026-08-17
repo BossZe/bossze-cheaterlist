@@ -213,6 +213,45 @@
 				"aimbot low fov"
 			],
 			"steamid": "[U:1:1920046142]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "pica pica",
+				"time": 1783936850
+			},
+			"proof": [
+				"multihacks"
+			],
+			"steamid": "[U:1:454221000]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lagushka_torch",
+				"time": 1783936875
+			},
+			"proof": [
+				"pica pica's friend"
+			],
+			"steamid": "[U:1:1210915117]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gnilaya Tvar",
+				"time": 1783936825
+			},
+			"proof": [
+				"pica pica's friend"
+			],
+			"steamid": "[U:1:1507937349]"
 		}
 	]
 }
