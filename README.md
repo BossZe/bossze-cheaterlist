@@ -9,8 +9,8 @@ how to use my list and tf2bd?
 
 and u are all set.
 
-but.... what about blacklist?
-so this is a public personal blacklist for avoid talking or any else to make me uncomfortable
-if u need to use im not recommended to use
-because maybe player in this list its your friends or u have person in your friend list
-and im only one use this list.
+<br>but.... what about blacklist?
+<br>so this is a public personal blacklist for avoid talking or any else to make me uncomfortable
+<br>if u need to use im not recommended to use
+<br>because maybe player in this list its your friends or u have person in your friend list
+<br>and im only one use this list.
