@@ -35,5 +35,19 @@
 			],
 			"steamid": "[U:1:1213528023]"
 		},
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Velvet<3",
+				"time": 1780591890
+			},
+			"proof": [
+				"blocked me while i didnt do anything."
+			],
+			"steamid": "[U:1:1297787677]"
+		},
 	]
 }
