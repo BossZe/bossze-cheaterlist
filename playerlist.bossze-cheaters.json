@@ -252,6 +252,18 @@
 				"pica pica's friend"
 			],
 			"steamid": "[U:1:1507937349]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"time": 1783936910
+			},
+			"proof": [
+				"aimbot (finding mark)"
+			],
+			"steamid": "[U:1:429344916]"
 		}
 	]
 }
