@@ -255,15 +255,28 @@
 		},
 		{
 			"attributes": [
-				"suspicious"
+				"cheater"
 			],
 			"last_seen": {
 				"time": 1783936910
 			},
 			"proof": [
-				"aimbot (finding mark)"
+				"aimbot"
 			],
 			"steamid": "[U:1:429344916]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Jded",
+				"time": 1783936920
+			},
+			"proof": [
+				"known cheater since 2022"
+			],
+			"steamid": "[U:1:419773901]"
 		}
 	]
 }
