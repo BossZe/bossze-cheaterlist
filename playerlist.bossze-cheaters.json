@@ -277,6 +277,19 @@
 				"known cheater since 2022"
 			],
 			"steamid": "[U:1:419773901]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "FISHH!!",
+				"time": 1783936925
+			},
+			"proof": [
+				"aimbot"
+			],
+			"steamid": "[U:1:892335491]"
 		}
 	]
 }
