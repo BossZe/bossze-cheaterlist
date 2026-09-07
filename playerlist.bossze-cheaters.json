@@ -290,6 +290,32 @@
 				"aimbot"
 			],
 			"steamid": "[U:1:892335491]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Michael Jackson",
+				"time": 1788606496
+			},
+			"proof": [
+				"fakelag"
+			],
+			"steamid": "[U:1:257661212]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TFEasy",
+				"time": 1788749881
+			},
+			"proof": [
+				"aimbot + mad so hard"
+			],
+			"steamid": "[U:1:744828298]"
 		}
 	]
 }
