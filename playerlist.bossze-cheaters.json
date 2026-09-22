@@ -343,5 +343,18 @@
 			],
 			"steamid": "[U:1:347317130]"
 		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LchQ",
+				"time": 1789652070
+			},
+			"proof": [
+				"aimbot"
+			],
+			"steamid": "[U:1:864487004]"
+		}
 	]
 }
