@@ -368,6 +368,32 @@
 				"closet cheater"
 			],
 			"steamid": "[U:1:914855933]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "machinm",
+				"time": 1790484810
+			},
+			"proof": [
+				"aimbot"
+			],
+			"steamid": "[U:1:689784170]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Yan | Index Messenger",
+				"time": 1791539709
+			},
+			"proof": [
+				"aimbot"
+			],
+			"steamid": "[U:1:1001642307]"
 		}
 	]
 }
