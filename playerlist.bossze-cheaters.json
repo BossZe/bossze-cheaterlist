@@ -394,6 +394,32 @@
 				"aimbot"
 			],
 			"steamid": "[U:1:1001642307]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "nonqazxsw102938",
+				"time": 1792037386
+			},
+			"proof": [
+				"aimbot loser"
+			],
+			"steamid": "[U:1:772744804]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Skibddi Ballz",
+				"time": 1792579765
+			},
+			"proof": [
+				"aimbot very low fov"
+			],
+			"steamid": "[U:1:1209488435]"
 		}
 	]
 }
